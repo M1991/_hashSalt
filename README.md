@@ -1,1 +1,1 @@
-# _hashSalt
+# Hash for passwords
